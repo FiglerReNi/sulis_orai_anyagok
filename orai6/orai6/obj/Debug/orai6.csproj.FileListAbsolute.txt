@@ -1,0 +1,7 @@
+A:\Programozás\Visual Studio\Feladatok\orai6\orai6\bin\Debug\orai6.exe.config
+A:\Programozás\Visual Studio\Feladatok\orai6\orai6\bin\Debug\orai6.exe
+A:\Programozás\Visual Studio\Feladatok\orai6\orai6\bin\Debug\orai6.pdb
+A:\Programozás\Visual Studio\Feladatok\orai6\orai6\obj\Debug\orai6.csprojResolveAssemblyReference.cache
+A:\Programozás\Visual Studio\Feladatok\orai6\orai6\obj\Debug\orai6.csproj.CoreCompileInputs.cache
+A:\Programozás\Visual Studio\Feladatok\orai6\orai6\obj\Debug\orai6.exe
+A:\Programozás\Visual Studio\Feladatok\orai6\orai6\obj\Debug\orai6.pdb
